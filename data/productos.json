@@ -168,5 +168,12 @@
     "precio": 1200,
     "categoria": "Aseo",
     "img": "detergente.jpg"
+  },
+  {
+    "id": 25,
+    "nombre": "Salsa de tomate x4",
+    "precio": 1000,
+    "categoria": "Despensa",
+    "img": "salsa-tomate.jpg"
   }
 ]
