@@ -1,0 +1,172 @@
+[
+  {
+    "id": 1,
+    "nombre": "Huevos x5",
+    "precio": 1000,
+    "categoria": "Básicos",
+    "img": "huevoX5.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Fruna 2L x3",
+    "precio": 2000,
+    "categoria": "Despensa",
+    "img": "frunaX3.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Croquetas x3",
+    "precio": 1000,
+    "categoria": "Congelados",
+    "img": "croquetas.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Carne Molida (250g)",
+    "precio": 1000,
+    "categoria": "Congelados",
+    "img": "carne.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Galletas x4",
+    "precio": 1000,
+    "categoria": "Confites",
+    "img": "galletas.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Gomitas x4",
+    "precio": 1000,
+    "categoria": "Confites",
+    "img": "gomitas.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Maruchan",
+    "precio": 990,
+    "categoria": "Despensa",
+    "img": "maruchan.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Leche Chocolate x2",
+    "precio": 1000,
+    "categoria": "Despensa",
+    "img": "lecheChica.jpg"
+  },
+  {
+    "id": 9,
+    "nombre": "Jugos Bombilla x3",
+    "precio": 1000,
+    "categoria": "Despensa",
+    "img": "jugoChico.jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "Helados x6",
+    "detalle": "Tipo Palo Palito",
+    "precio": 1000,
+    "categoria": "Helados",
+    "img": "heladosX6.jpg"
+  },
+  {
+    "id": 11,
+    "nombre": "Helados x5",
+    "precio": 1000,
+    "categoria": "Helados",
+    "img": "heladosX5.jpg"
+  },
+  {
+    "id": 12,
+    "nombre": "Helados Conos x5",
+    "precio": 1000,
+    "categoria": "Helados",
+    "img": "twingo.jpg"
+  },
+  {
+    "id": 13,
+    "nombre": "Cassatin x5",
+    "precio": 2000,
+    "categoria": "Helados",
+    "img": ""
+  },
+  {
+    "id": 14,
+    "nombre": "Maginifico x5",
+    "precio": 2000,
+    "categoria": "Helados",
+    "img": "magnifico.jpg"
+  },
+  {
+    "id": 15,
+    "nombre": "Kimbo x5",
+    "precio": 2000,
+    "categoria": "Helados",
+    "img": "kimbo.jpg"
+  },
+  {
+    "id": 16,
+    "nombre": "Helados x4",
+    "precio": 1000,
+    "categoria": "Helados",
+    "img": "cremino.jpg"
+  },
+  {
+    "id": 17,
+    "nombre": "Mustang x5",
+    "precio": 2000,
+    "categoria": "Helados",
+    "img": "mustang.jpg"
+  },
+  {
+    "id": 18,
+    "nombre": "Hamburguesas x4",
+    "precio": 1000,
+    "categoria": "Congelados",
+    "img": "hamburguesas.jpg"
+  },
+  {
+    "id": 19,
+    "nombre": "Hamburguesas Vacuno x2",
+    "detalle": "200 gramos",
+    "precio": 1200,
+    "categoria": "Congelados",
+    "img": "supBeef.jpg"
+  },
+  {
+    "id": 20,
+    "nombre": "Azúcar 1Kg",
+    "precio": 1000,
+    "categoria": "Despensa",
+    "img": "azucar.jpg"
+  },
+  {
+    "id": 21,
+    "nombre": "Loly Choc x6",
+    "precio": 1000,
+    "categoria": "Confites",
+    "img": "loly.jpg"
+  },
+  {
+    "id": 22,
+    "nombre": "Nuggets (300g)",
+    "precio": 1000,
+    "categoria": "Congelados",
+    "img": "nuggets.jpg"
+  },
+  {
+    "id": 23,
+    "nombre": "Fideos x3",
+    "precio": 1000,
+    "categoria": "Despensa",
+    "img": "fideos.jpg"
+  },
+  {
+    "id": 24,
+    "nombre": "Detergente 5 Litros",
+    "precio": 1200,
+    "categoria": "Aseo",
+    "img": "detergente.jpg"
+  }
+]
