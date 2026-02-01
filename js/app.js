@@ -13,7 +13,7 @@ async function cargarProductos() {
     
     try {
         // Leemos el archivo JSON
-        const respuesta = await fetch("data/productos.json");
+        const respuesta = await fetch(`data/productos.json?v=${Date.now()}`);
         const productos = await respuesta.json();
 
         // Limpiamos el contenedor
