@@ -30,7 +30,7 @@ async function cargarProductos() {
 
             const card = `
                 <div class="card">
-                    <img src="${imagen}" alt="${producto.nombre}" onerror="this.src='https://placehold.co/150x150?text=Sin+Foto'">
+                    <img src="${imagen}" alt="${producto.nombre}" loading ="lazy" height="300" style="object-fit: cover;" onerror="this.src='https://placehold.co/150x150?text=Sin+Foto'">
                     <div class="card-body">
                         <div class="card-title">${producto.nombre}</div>
                         ${producto.detalle ? `<div class="card-detalle">${producto.detalle}</div>` : ''}
