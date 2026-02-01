@@ -2,7 +2,7 @@
   {
     "id": 1,
     "nombre": "Huevos x5",
-    "precio": 12345,
+    "precio": 1000,
     "categoria": "Básicos",
     "img": "huevoX5.jpg"
   },
