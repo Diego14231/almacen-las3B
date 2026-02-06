@@ -175,5 +175,12 @@
     "precio": 1000,
     "categoria": "Despensa",
     "img": "salsa-tomate.jpg"
+  },
+  {
+    "id": 26,
+    "nombre": "Chiquitín 4X1000",
+    "precio": 1000,
+    "categoria": "Despensa",
+    "img": "chiquitín.jpg"
   }
 ]
